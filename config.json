@@ -1,18 +1,11 @@
-[
-	{
-		"text" : "Slap your face [[n]] times",
-		"categories" : [
-			"light pain",
-			"impact play"
-		],
-		"toys" : [],
-		"variables" : [
-			{
-				"name" : "n",
-				"type" : "randomInt",
-				"min" : 1,
-				"max" : 10
-			}
-		]
-	}
-]
+{
+	"likes" : [ 
+		"impact play",
+		"light pain"
+	],
+	"limits" : [
+		"scat"
+	],
+	"toys" : [
+	]
+}

@@ -1,42 +1,19 @@
 {
 	"$schema" : "http://json-schema.org/schema#",
-	"$id" : "https://www.github.com/reallybadatnaming1/auto-decider/schema/config.json",
-	"type" : "array",
-	"items" : {
-		"type" : "object",
-		"properites" : {
-			"text" : { "type" : "string" },
-			"categories" : {
-				"type" : "array",
-				"items" : { "type" : "string" }
-			},
-			"toys" : {
-				"type" : "array",
-				"items" : { "type" : "string" }
-			},
-			"variables" : {
-				"type" : "array",
-				"items" : {
-					"type" : "object",
-					"properties" : {
-						"name" : { "type" : "string" },
-						"type" : { 
-							"type" : "string",
-							"enum" : ["randomInt"]
-						},
-						"min" : {
-							"type" : "integer",
-							"minimum" : 0
-						},
-						"max" : {
-							"type" : "integer",
-							"minimum" : 0
-						}
-					},
-					"required" : ["name", "type"]
-				}
-			},
-			"required" : ["text"]
+	"$id" : "https://github.com/reallybadatnaming1/auto-decider/schema/config.json",
+	"type" : "object",
+	"properties" : {
+		"likes" : {
+			"type" : "array",
+			"items" : {"type" : "string"}
+		},
+		"limits" : {
+			"type" : "array",
+			"items" : {"type" : "string"}
+		},
+		"toys" : {
+			"type" : "array",
+			"items" : {"type" : "string"}
 		}
 	}
 }
