@@ -3,17 +3,8 @@
 	"$id" : "https://github.com/reallybadatnaming1/auto-decider/schema/config.json",
 	"type" : "object",
 	"properties" : {
-		"likes" : {
-			"type" : "array",
-			"items" : {"type" : "string"}
-		},
-		"limits" : {
-			"type" : "array",
-			"items" : {"type" : "string"}
-		},
-		"toys" : {
-			"type" : "array",
-			"items" : {"type" : "string"}
-		}
+		"likes" : { "$ref" : "definitions.json#/categories"},
+		"limits" : { "$ref" : "definitions.json#/categories"},
+		"limits" : { "$ref" : "definitions.json#/toys"}
 	}
 }

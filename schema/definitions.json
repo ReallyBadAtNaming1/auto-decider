@@ -1,0 +1,33 @@
+{
+	"$schema" : "http://json-schema.org/draft-07/schema#",
+	"definitions" : {
+		"categories" : {
+			"type" : "array",
+			"items" : {
+				"type" : "string",
+				"enum" : [
+					"impact play", 
+					"light pain", 
+					"scat"
+				]
+			}
+		},
+		"toys" : {
+			"type" : "array",
+			"items" : {
+				"type" : "string",
+				"enum" : [
+					"small dildo", 
+					"medium dildo", 
+					"large dildo",
+					"small plug", 
+					"medium plug", 
+					"large plug",
+					"cane",
+					"flogger",
+					"paddle"
+				]
+			}
+		}
+	}
+}
