@@ -18,8 +18,9 @@
 				"type" : "string",
 				"enum" : [
 					"impact play", 
-					"light pain", 
-					"scat"
+					"pain", 
+					"anal",
+					"fucking"
 				]
 			}
 		},
@@ -31,12 +32,15 @@
 					"small dildo", 
 					"medium dildo", 
 					"large dildo",
-					"small plug", 
-					"medium plug", 
-					"large plug",
-					"cane",
-					"flogger",
-					"paddle"
+					"small butt plug", 
+					"medium butt plug", 
+					"large butt plug",
+					"cucumber",
+					"corn cob",
+					"carrot",
+					"lube",
+					"oil",
+					"toothpaste"
 				]
 			}
 		}

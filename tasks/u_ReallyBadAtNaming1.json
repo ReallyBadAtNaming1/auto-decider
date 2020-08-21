@@ -1,5 +1,2390 @@
 [
 	{
+		"text" : "Fuck your vagina with a small dildo for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"small dildo",
+			"lube"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium dildo for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"medium dildo",
+			"lube"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large dildo for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"large dildo",
+			"lube"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a small butt plug for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"small butt plug",
+			"lube"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium butt plug for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"medium butt plug",
+			"lube"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large butt plug for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"large butt plug",
+			"lube"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a cucumber for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"cucumber",
+			"lube"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a corn cob for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"corn cob",
+			"lube"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a carrot for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"carrot",
+			"lube"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small dildo for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"small dildo",
+			"lube"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium dildo for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"medium dildo",
+			"lube"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large dildo for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"large dildo",
+			"lube"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small butt plug for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"small butt plug",
+			"lube"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium butt plug for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"medium butt plug",
+			"lube"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large butt plug for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"large butt plug",
+			"lube"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a cucumber for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"cucumber",
+			"lube"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a corn cob for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"corn cob",
+			"lube"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a carrot for [[time]] minutes at [[speed]] BPM using normal lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"carrot",
+			"lube"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a small dildo for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"small dildo"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium dildo for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"medium dildo"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large dildo for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"large dildo"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a small butt plug for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"small butt plug"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium butt plug for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"medium butt plug"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large butt plug for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"large butt plug"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a cucumber for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"cucumber"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a corn cob for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"corn cob"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a carrot for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"carrot"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small dildo for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"small dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium dildo for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"medium dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large dildo for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"large dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small butt plug for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"small butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium butt plug for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"medium butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large butt plug for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"large butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a cucumber for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"cucumber"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a corn cob for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"corn cob"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a carrot for [[time]] minutes at [[speed]] BPM using no lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"carrot"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a small dildo for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"small dildo",
+			"oil"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium dildo for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"medium dildo",
+			"oil"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large dildo for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"large dildo",
+			"oil"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a small butt plug for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"small butt plug",
+			"oil"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium butt plug for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"medium butt plug",
+			"oil"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large butt plug for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"large butt plug",
+			"oil"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a cucumber for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"cucumber",
+			"oil"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a corn cob for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"corn cob",
+			"oil"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a carrot for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"carrot",
+			"oil"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small dildo for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"small dildo",
+			"oil"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium dildo for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"medium dildo",
+			"oil"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large dildo for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"large dildo",
+			"oil"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small butt plug for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"small butt plug",
+			"oil"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium butt plug for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"medium butt plug",
+			"oil"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large butt plug for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"large butt plug",
+			"oil"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a cucumber for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"cucumber",
+			"oil"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a corn cob for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"corn cob",
+			"oil"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a carrot for [[time]] minutes at [[speed]] BPM using oil as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"carrot",
+			"oil"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a small dildo for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"small dildo"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium dildo for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"medium dildo"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large dildo for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"large dildo"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a small butt plug for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"small butt plug"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium butt plug for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"medium butt plug"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large butt plug for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"large butt plug"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a cucumber for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"cucumber"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a corn cob for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"corn cob"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a carrot for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"fucking"
+		],
+		"toys" : [
+			"carrot"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small dildo for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"small dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium dildo for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"medium dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large dildo for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"large dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small butt plug for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"small butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium butt plug for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"medium butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large butt plug for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"large butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a cucumber for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"cucumber"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a corn cob for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"corn cob"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a carrot for [[time]] minutes at [[speed]] BPM using spit as lube",
+		"categories" : [
+			"anal",
+			"fucking"
+		],
+		"toys" : [
+			"carrot"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a small dildo for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"small dildo",
+			"toothpaste"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium dildo for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"medium dildo",
+			"toothpaste"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large dildo for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"large dildo",
+			"toothpaste"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a small butt plug for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"small butt plug",
+			"toothpaste"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a medium butt plug for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"medium butt plug",
+			"toothpaste"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a large butt plug for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"large butt plug",
+			"toothpaste"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a cucumber for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"cucumber",
+			"toothpaste"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a corn cob for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"corn cob",
+			"toothpaste"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your vagina with a carrot for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"carrot",
+			"toothpaste"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small dildo for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"anal",
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"small dildo",
+			"toothpaste"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium dildo for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"anal",
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"medium dildo",
+			"toothpaste"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large dildo for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"anal",
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"large dildo",
+			"toothpaste"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a small butt plug for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"anal",
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"small butt plug",
+			"toothpaste"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a medium butt plug for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"anal",
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"medium butt plug",
+			"toothpaste"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a large butt plug for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"anal",
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"large butt plug",
+			"toothpaste"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a cucumber for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"anal",
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"cucumber",
+			"toothpaste"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a corn cob for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"anal",
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"corn cob",
+			"toothpaste"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
+		"text" : "Fuck your ass with a carrot for [[time]] minutes at [[speed]] BPM using toothpaste as lube",
+		"categories" : [
+			"anal",
+			"fucking",
+			"pain",
+			"sensation play"
+		],
+		"toys" : [
+			"carrot",
+			"toothpaste"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 15
+			},
+			{
+				"name" : "speed",
+				"type" : "randomInt",
+				"min" : 30,
+				"max" : 180
+			}
+		]
+	},
+	{
 		"text" : "Slap your face [[n]] times",
 		"categories" : [
 			"light pain",
