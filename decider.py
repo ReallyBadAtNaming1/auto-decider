@@ -2,6 +2,8 @@ import json
 import random
 import os
 
+debug = False
+
 def isEligible(task, likes, limits, toys, anatomy):
     isNotLimit = not any([category in limits for category in task["categories"]])
     isLiked = any([category in likes for category in task["categories"]])
@@ -21,12 +23,16 @@ def findTasks():
 
 def pickTask(likes, limits, toys, anatomy):
     tasks = findTasks()
+    if(debug): print("found", len(tasks), "tasks")
     eligibleTasks = [task for task in tasks if isEligible(task, likes, limits, toys, anatomy)]
+    if(debug): print("picking from", len(eligibleTasks), "eligible tasks")
     return eligibleTasks[random.randint(0,len(eligibleTasks) - 1)]
 
 def buildTask(task):
+    if(debug): print("building task ", task["text"])
     result = task["text"]
     for variable in task["variables"]:
+        if(debug): print("building variable", variable["name"])
         value = ""
         if variable["type"] == "randomInt" :
             value = str(random.randint(variable["min"], variable["max"]))
