@@ -1,5 +1,6 @@
 import json
 import random
+import os
 
 def isEligible(task, likes, limits, toys):
     isNotLimit = not any([category in limits for category in task["categories"]])
@@ -7,9 +8,18 @@ def isEligible(task, likes, limits, toys):
     hasToys = all([toy in toys for toy in task["toys"]])
     return isNotLimit and isLiked and hasToys
 
+def findTasks():
+    tasks = []
+    for entry in os.scandir("tasks"):
+        if (entry.path.endswith(".json") and entry.is_file()):
+            with open(entry.path, "r") as task_file:
+                fileContent = json.load(task_file)
+            tasks.extend(fileContent)
+    return tasks
+
+
 def pickTask(likes, limits, toys):
-    with open("tasks.json", "r") as task_file:
-        tasks = json.load(task_file)
+    tasks = findTasks()
     eligibleTasks = [task for task in tasks if isEligible(task, likes, limits, toys)]
     return eligibleTasks[random.randint(0,len(eligibleTasks) - 1)]
 
