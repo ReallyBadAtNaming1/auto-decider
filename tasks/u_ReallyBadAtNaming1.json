@@ -2400,5 +2400,2501 @@
 				"max" : 10
 			}
 		]
+	},
+	{
+		"text" : "Hit your ass with a cane [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a cane [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a cane [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a cane [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a cane [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a cane [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a cane [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a cane [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a cane [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a cane [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a cane [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a cane [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a cane [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a cane [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a cane [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a cane [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Slap your face [[n]] times",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a cane [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a cane [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a cane [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a cane [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"cane"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a flogger [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a flogger [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a flogger [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a flogger [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a flogger [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a flogger [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a flogger [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a flogger [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a flogger [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a flogger [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a flogger [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a flogger [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a flogger [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a flogger [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a flogger [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a flogger [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Slap your face [[n]] times",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a flogger [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a flogger [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a flogger [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a flogger [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"flogger"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with your bare hand [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with your bare hand [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with your bare hand [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with your bare hand [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with your bare hand [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with your bare hand [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with your bare hand [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with your bare hand [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with your bare hand [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with your bare hand [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with your bare hand [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with your bare hand [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with your bare hand [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with your bare hand [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with your bare hand [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with your bare hand [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Slap your face [[n]] times",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with your bare hand [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with your bare hand [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with your bare hand [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with your bare hand [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a paddle [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a paddle [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a paddle [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a paddle [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a paddle [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a paddle [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a paddle [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a paddle [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a paddle [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a paddle [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a paddle [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a paddle [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a paddle [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a paddle [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a paddle [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a paddle [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Slap your face [[n]] times",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a paddle [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a paddle [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a paddle [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a paddle [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"paddle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a ruler [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a ruler [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a ruler [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a ruler [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a ruler [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a ruler [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a ruler [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a ruler [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a ruler [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a ruler [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a ruler [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a ruler [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a ruler [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a ruler [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a ruler [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a ruler [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Slap your face [[n]] times",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a ruler [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a ruler [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a ruler [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a ruler [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"ruler"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a wooden spoon [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a wooden spoon [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a wooden spoon [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your ass with a wooden spoon [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a wooden spoon [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a wooden spoon [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a wooden spoon [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your clit with a wooden spoon [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a wooden spoon [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a wooden spoon [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a wooden spoon [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit the head of your penis with a wooden spoon [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a wooden spoon [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a wooden spoon [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a wooden spoon [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your balls with a wooden spoon [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Slap your face [[n]] times",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a wooden spoon [[n]] times lightly",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a wooden spoon [[n]] times with medium strength",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a wooden spoon [[n]] times hard",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Hit your nipples with a wooden spoon [[n]] times as hard as you can",
+		"categories" : [
+			"pain",
+			"impact play"
+		],
+		"toys" : [
+			"wooden spoon"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 5,
+				"max" : 50
+			}
+		]
 	}
 ]
