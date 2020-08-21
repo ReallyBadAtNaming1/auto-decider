@@ -4896,5 +4896,639 @@
 				"max" : 50
 			}
 		]
+	},
+	{
+		"text" : "Put a binder clip on your balls",
+		"categories" : [
+			"pain"
+		],
+		"toys" : [
+			"binder clip"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : []
+	},
+	{
+		"text" : "Put [[n]] clothespins your balls",
+		"categories" : [
+			"pain"
+		],
+		"toys" : [
+			"clothespins"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 3
+			}
+		]
+	},
+	{
+		"text" : "Put clover clamps on your balls",
+		"categories" : [
+			"pain"
+		],
+		"toys" : [
+			"clover clamps"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : []
+	},
+	{
+		"text" : "Put a binder clip on each labia",
+		"categories" : [
+			"pain"
+		],
+		"toys" : [
+			"binder clip"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : []
+	},
+	{
+		"text" : "Put [[n]] clothespins on each labia",
+		"categories" : [
+			"pain"
+		],
+		"toys" : [
+			"clothespins"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 3
+			}
+		]
+	},
+	{
+		"text" : "Put clover clamps on your nipples",
+		"categories" : [
+			"pain"
+		],
+		"toys" : [
+			"clover clamps"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : []
+	},
+	{
+		"text" : "Put a binder clip on each nipple",
+		"categories" : [
+			"pain",
+			"nipple play"
+		],
+		"toys" : [
+			"binder clip"
+		],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Put [[n]] clothespins on each nipple",
+		"categories" : [
+			"pain",
+			"nipple play"
+		],
+		"toys" : [
+			"clothespins"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 3
+			}
+		]
+	},
+	{
+		"text" : "Put clover clamps on your nipples",
+		"categories" : [
+			"pain",
+			"nipple play"
+		],
+		"toys" : [
+			"clover clamps"
+		],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Put a binder clip on your penis",
+		"categories" : [
+			"pain"
+		],
+		"toys" : [
+			"binder clip"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : []
+	},
+	{
+		"text" : "Put [[n]] clothespins your penis",
+		"categories" : [
+			"pain"
+		],
+		"toys" : [
+			"clothespins"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 3
+			}
+		]
+	},
+	{
+		"text" : "Put clover clamps on your penis",
+		"categories" : [
+			"pain"
+		],
+		"toys" : [
+			"clover clamps"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : []
+	},
+	{
+		"text" : "Lightly stroke your penis using [[n]] fingers",
+		"categories" : [
+			"teasing"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 3
+			}
+		]
+	},
+	{
+		"text" : "Lightly rub your clit using [[n]] fingers",
+		"categories" : [
+			"teasing"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 3
+			}
+		]
+	},
+	{
+		"text" : "Finger your vagina using [[n]] fingers",
+		"categories" : [
+			"masturbation"
+		],
+		"toys" : [],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 3
+			}
+		]
+	},
+	{
+		"text" : "Finger your ass using [[n]] fingers",
+		"categories" : [
+			"anal"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 3
+			}
+		]
+	},
+	{
+		"text" : "Drip [[n]] drops of hot wax on your nipples",
+		"categories" : [
+			"wax play"
+		],
+		"toys" : [
+			"candle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Drip [[n]] drops of hot wax on your stomach",
+		"categories" : [
+			"wax play"
+		],
+		"toys" : [
+			"candle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Drip [[n]] drops of hot wax on your arms",
+		"categories" : [
+			"wax play"
+		],
+		"toys" : [
+			"candle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Drip [[n]] drops of hot wax on the inside of your thighs",
+		"categories" : [
+			"wax play"
+		],
+		"toys" : [
+			"candle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Drip [[n]] drops of hot wax around your sensitive parts",
+		"categories" : [
+			"wax play"
+		],
+		"toys" : [
+			"candle"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 50
+			}
+		]
+	},
+	{
+		"text" : "Blindfold yourself",
+		"categories" : [
+			"sensory deprivation"
+		],
+		"toys" : [
+			"blindfold"
+		],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Stuff your panties in your mouth. Wear them after your session",
+		"categories" : [
+			"gag",
+			"humiliation"
+		],
+		"toys" : [
+			"panties"
+		],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Stuff a pair of used socks in your mouth. Wear them after your session",
+		"categories" : [
+			"gag",
+			"humiliation"
+		],
+		"toys" : [],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Gag yourself using a ball gag",
+		"categories" : [
+			"gag"
+		],
+		"toys" : [
+			"ball gag"
+		],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Gag yourself using a penis gag",
+		"categories" : [
+			"gag"
+		],
+		"toys" : [
+			"penis gag"
+		],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Gag yourself using a open mouth gag",
+		"categories" : [
+			"gag"
+		],
+		"toys" : [
+			"open mouth gag"
+		],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Gag yourself using a spider gag",
+		"categories" : [
+			"gag"
+		],
+		"toys" : [
+			"spider gag"
+		],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Gag yourself with a piece of tape",
+		"categories" : [
+			"gag"
+		],
+		"toys" : [
+			"tape"
+		],
+		"anatomy" : [],
+		"variables" : []
+	},
+	{
+		"text" : "Stuff your panties in your vagina. Wear them after you are done.",
+		"categories" : [
+			"humiliation"
+		],
+		"toys" : [
+			"panties"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : []
+	},
+	{
+		"text" : "Insert [[n]] ice cubes in your ass and plug it using a small butt plug.",
+		"categories" : [
+			"anal"
+		],
+		"toys" : [
+			"ice cubes",
+			"small butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Insert [[n]] ice cubes in your ass and plug it using a medium butt plug.",
+		"categories" : [
+			"anal"
+		],
+		"toys" : [
+			"ice cubes",
+			"medium butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Insert [[n]] ice cubes in your ass and plug it using a large butt plug.",
+		"categories" : [
+			"anal"
+		],
+		"toys" : [
+			"ice cubes",
+			"large butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Insert [[n]] ice cubes in your ass and plug it using a small dildo, held in with tape.",
+		"categories" : [
+			"anal"
+		],
+		"toys" : [
+			"ice cubes",
+			"tape",
+			"small dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Insert [[n]] ice cubes in your ass and plug it using a medium dildo, held in with tape.",
+		"categories" : [
+			"anal"
+		],
+		"toys" : [
+			"ice cubes",
+			"tape",
+			"medium dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Insert [[n]] ice cubes in your ass and plug it using a large dildo, held in with tape.",
+		"categories" : [
+			"anal"
+		],
+		"toys" : [
+			"ice cubes",
+			"tape",
+			"large dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 10
+			}
+		]
+	},
+	{
+		"text" : "Deepthroat a small dildo [[count]] times, holding it in for [[time]] seconds each time",
+		"categories" : [
+			"deepthroat",
+			"oral"
+		],
+		"toys" : [
+			"small dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "count",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 50
+			},
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Deepthroat a medium dildo [[count]] times, holding it in for [[time]] seconds each time",
+		"categories" : [
+			"deepthroat",
+			"oral"
+		],
+		"toys" : [
+			"medium dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "count",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 50
+			},
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Deepthroat a large dildo [[count]] times, holding it in for [[time]] seconds each time",
+		"categories" : [
+			"deepthroat",
+			"oral"
+		],
+		"toys" : [
+			"large dildo"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "count",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 50
+			},
+			{
+				"name" : "time",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
 	}
 ]

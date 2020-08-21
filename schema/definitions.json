@@ -17,10 +17,19 @@
 			"items" : {
 				"type" : "string",
 				"enum" : [
-					"impact play", 
-					"pain", 
 					"anal",
-					"fucking"
+					"fucking",
+					"gag",
+					"humiliation",
+					"impact play",
+					"masturbation",
+					"nipple play",
+					"oral",
+					"pain",
+					"sensation play",
+					"sensory deprivation",
+					"teasing",
+					"wax play"
 				]
 			}
 		},
@@ -29,18 +38,33 @@
 			"items" : {
 				"type" : "string",
 				"enum" : [
-					"small dildo", 
-					"medium dildo", 
-					"large dildo",
-					"small butt plug", 
-					"medium butt plug", 
-					"large butt plug",
-					"cucumber",
-					"corn cob",
+					"ball gag",
+					"binder clip",
+					"blindfold",
+					"candle",
 					"carrot",
+					"clothespins",
+					"clover clamps",
+					"corn cob",
+					"cucumber",
+					"flogger",
+					"large butt plug",
+					"large dildo",
 					"lube",
+					"medium butt plug",
+					"medium dildo",
 					"oil",
-					"toothpaste"
+					"open mouth gag",
+					"paddle",
+					"panties",
+					"penis gag",
+					"ruler",
+					"small butt plug",
+					"small dildo",
+					"spider gag",
+					"tape",
+					"toothpaste",
+					"wooden spoon"
 				]
 			}
 		}
