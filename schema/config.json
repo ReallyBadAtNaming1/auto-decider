@@ -5,6 +5,7 @@
 	"properties" : {
 		"likes" : { "$ref" : "definitions.json#/categories"},
 		"limits" : { "$ref" : "definitions.json#/categories"},
-		"limits" : { "$ref" : "definitions.json#/toys"}
+		"toys" : { "$ref" : "definitions.json#/toys"},
+		"anatomy" : { "$ref" : "definitions.json#/anatomy"}
 	}
 }

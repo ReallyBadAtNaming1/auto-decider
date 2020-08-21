@@ -2,11 +2,12 @@ import json
 import random
 import os
 
-def isEligible(task, likes, limits, toys):
+def isEligible(task, likes, limits, toys, anatomy):
     isNotLimit = not any([category in limits for category in task["categories"]])
     isLiked = any([category in likes for category in task["categories"]])
     hasToys = all([toy in toys for toy in task["toys"]])
-    return isNotLimit and isLiked and hasToys
+    hasAnatomy = all([anatomyElement in anatomy for anatomyElement in task["anatomy"]])
+    return isNotLimit and isLiked and hasToys and hasAnatomy
 
 def findTasks():
     tasks = []
@@ -18,9 +19,9 @@ def findTasks():
     return tasks
 
 
-def pickTask(likes, limits, toys):
+def pickTask(likes, limits, toys, anatomy):
     tasks = findTasks()
-    eligibleTasks = [task for task in tasks if isEligible(task, likes, limits, toys)]
+    eligibleTasks = [task for task in tasks if isEligible(task, likes, limits, toys, anatomy)]
     return eligibleTasks[random.randint(0,len(eligibleTasks) - 1)]
 
 def buildTask(task):
@@ -35,5 +36,10 @@ def buildTask(task):
 #TODO verify files conforming to schema
 with open("config.json") as config_file:
     config = json.load(config_file)
-result = buildTask(pickTask(config["likes"], config["limits"], config["toys"]))
+result = buildTask(pickTask(
+    config["likes"], 
+    config["limits"], 
+    config["toys"],
+    config["anatomy"]
+))
 print(result)

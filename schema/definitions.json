@@ -1,6 +1,17 @@
 {
 	"$schema" : "http://json-schema.org/draft-07/schema#",
 	"definitions" : {
+		"anatomy" : {
+			"type" : "array",
+			"items" : {
+				"type" : "string",
+				"enum" : [
+					"breasts", 
+					"vagina", 
+					"penis"
+				]
+			}
+		},
 		"categories" : {
 			"type" : "array",
 			"items" : {
