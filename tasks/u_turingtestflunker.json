@@ -1,0 +1,626 @@
+[
+	{
+		"text" : "Wear a vibrating butt plug for [[n]] minutes on low intensity",
+		"categories" : [
+			"anal",
+			"stimulation"
+		],
+		"toys" : [
+			"vibrating butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a vibrating butt plug for [[n]] minutes on medium intensity",
+		"categories" : [
+			"anal",
+			"stimulation"
+		],
+		"toys" : [
+			"vibrating butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a vibrating butt plug for [[n]] minutes on high intensity",
+		"categories" : [
+			"anal",
+			"stimulation"
+		],
+		"toys" : [
+			"vibrating butt plug"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your clit and leave it there for [[n]] minutes on low intensity. Do not cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm denial"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your clit and leave it there for [[n]] minutes on medium intensity. Do not cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm denial"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your clit and leave it there for [[n]] minutes on high intensity. Do not cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm denial"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your clit and leave it there for [[n]] minutes on low intensity. You may cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your clit and leave it there for [[n]] minutes on medium intensity. You may cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your clit and leave it there for [[n]] minutes on high intensity. You may cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your clit and leave it there for [[n]] minutes on low intensity. If you cum, ruin it.",
+		"categories" : [
+			"stimulation",
+			"ruined orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your clit and leave it there for [[n]] minutes on medium intensity. If you cum, ruin it.",
+		"categories" : [
+			"stimulation",
+			"ruined orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your clit and leave it there for [[n]] minutes on high intensity. If you cum, ruin it.",
+		"categories" : [
+			"stimulation",
+			"ruined orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"vagina"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your penis and leave it there for [[n]] minutes on low intensity. Do not cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm denial"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your penis and leave it there for [[n]] minutes on medium intensity. Do not cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm denial"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your penis and leave it there for [[n]] minutes on high intensity. Do not cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm denial"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your penis and leave it there for [[n]] minutes on low intensity. You may cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your penis and leave it there for [[n]] minutes on medium intensity. You may cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your penis and leave it there for [[n]] minutes on high intensity. You may cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your penis and leave it there for [[n]] minutes on low intensity. If you cum, ruin it.",
+		"categories" : [
+			"stimulation",
+			"ruined orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your penis and leave it there for [[n]] minutes on medium intensity. If you cum, ruin it.",
+		"categories" : [
+			"stimulation",
+			"ruined orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Tape a vibrator to your penis and leave it there for [[n]] minutes on high intensity. If you cum, ruin it.",
+		"categories" : [
+			"stimulation",
+			"ruined orgasm"
+		],
+		"toys" : [
+			"vibrator",
+			"tape"
+		],
+		"anatomy" : [
+			"penis"
+		],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a wearable vibrator for [[n]] minutes on low intensity. Do not cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm denial"
+		],
+		"toys" : [
+			"wearable vibrator"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a wearable vibrator for [[n]] minutes on medium intensity. Do not cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm denial"
+		],
+		"toys" : [
+			"wearable vibrator"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a wearable vibrator for [[n]] minutes on high intensity. Do not cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm denial"
+		],
+		"toys" : [
+			"wearable vibrator"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a wearable vibrator for [[n]] minutes on low intensity. You may cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm"
+		],
+		"toys" : [
+			"wearable vibrator"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a wearable vibrator for [[n]] minutes on medium intensity. You may cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm"
+		],
+		"toys" : [
+			"wearable vibrator"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a wearable vibrator for [[n]] minutes on high intensity. You may cum.",
+		"categories" : [
+			"stimulation",
+			"orgasm"
+		],
+		"toys" : [
+			"wearable vibrator"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a wearable vibrator for [[n]] minutes on low intensity. If you cum, ruin it.",
+		"categories" : [
+			"stimulation",
+			"ruined orgasm"
+		],
+		"toys" : [
+			"wearable vibrator"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a wearable vibrator for [[n]] minutes on medium intensity. If you cum, ruin it.",
+		"categories" : [
+			"stimulation",
+			"ruined orgasm"
+		],
+		"toys" : [
+			"wearable vibrator"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	},
+	{
+		"text" : "Wear a wearable vibrator for [[n]] minutes on high intensity. If you cum, ruin it.",
+		"categories" : [
+			"stimulation",
+			"ruined orgasm"
+		],
+		"toys" : [
+			"wearable vibrator"
+		],
+		"anatomy" : [],
+		"variables" : [
+			{
+				"name" : "n",
+				"type" : "randomInt",
+				"min" : 1,
+				"max" : 30
+			}
+		]
+	}
+]
